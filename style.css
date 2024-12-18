@@ -38,7 +38,7 @@ body {
   position: absolute;
   width: 40px;
   height: 40px;
-  background: url('./candy.png') no-repeat center center / contain;
+  background: url('./candy1.png') no-repeat center center / contain;
   cursor: pointer;
   animation: fall linear;
 }
